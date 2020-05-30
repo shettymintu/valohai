@@ -1,0 +1,9 @@
+*.gz
+*.pb
+*.py[cod]
+.idea/
+inputs/
+outputs/
+output.csv
+output.json
+valohai-local-outputs
